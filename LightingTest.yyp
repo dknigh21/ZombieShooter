@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "960b073c-0468-43f6-acb9-c2186e44dda2",
+            "Value": {
+                "id": "a09eb826-4200-404c-85b9-fc4082adbb79",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "4e7a47d0-d005-46a6-90a3-f5edd1d16d6f",
@@ -175,11 +183,27 @@
             }
         },
         {
+            "Key": "c4a32548-7af9-4f0f-a129-fd71b0b08079",
+            "Value": {
+                "id": "e43dadf3-23fa-41ee-933f-7c9752ced601",
+                "resourcePath": "sprites\\spr_player_move_flashlight\\spr_player_move_flashlight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "847a393a-8e75-4eef-b6a7-454ecc654ea1",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cf047514-0045-47f2-9a58-0434c6281aed",
+            "Value": {
+                "id": "f1619408-1b20-4702-ad4e-7c5bdad92690",
+                "resourcePath": "sprites\\spr_player_idle_flashlight\\spr_player_idle_flashlight.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
